@@ -19,14 +19,6 @@
 	  {	
           "id" : "5",
           "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/Template/5.jpg"
-      },
-	  {	
-          "id" : "6",
-          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/img6.jpg"
-      },
-	  {	
-          "id" : "7",
-          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/img7.jpg"
       }
     ]
 }  
