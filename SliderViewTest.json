@@ -1,0 +1,32 @@
+{
+  "SliderView":[
+      {
+          "id" : "1",
+          "url" :"https://raw.githubusercontent.com/sat-test/json_image_collection/main/img1.jpg"
+      },
+      {	
+          "id" : "2",
+          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/img2.jpg"
+      },
+      {	
+          "id" : "3",
+          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/img3.jpg"
+      },
+	  {	
+          "id" : "4",
+          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/img4.jpg"
+      },
+	  {	
+          "id" : "5",
+          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/img5.jpg"
+      },
+	  {	
+          "id" : "6",
+          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/img6.jpg"
+      },
+	  {	
+          "id" : "7",
+          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/img7.jpg"
+      }
+    ]
+}  
