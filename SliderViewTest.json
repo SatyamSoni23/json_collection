@@ -2,31 +2,31 @@
   "SliderView":[
       {
           "id" : "0",
-          "url" :"https://raw.githubusercontent.com/sat-test/json_image_collection/main/Template/0.png"
+          "url" :"https://raw.githubusercontent.com/sat-test/json_image_collection/main/Templates/0.png"
       },
       {
           "id" : "1",
-          "url" :"https://raw.githubusercontent.com/sat-test/json_image_collection/main/Template/1.jpg"
+          "url" :"https://raw.githubusercontent.com/sat-test/json_image_collection/main/Templates/1.jpg"
       },
       {	
           "id" : "2",
-          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/Template/2.jpg"
+          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/Templates/2.jpg"
       },
       {	
           "id" : "3",
-          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/Template/3.jpg"
+          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/Templates/3.jpg"
       },
 	  {	
           "id" : "4",
-          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/Template/4.jpg"
+          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/Templates/4.jpg"
       },
 	  {	
           "id" : "5",
-          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/Template/5.jpg"
+          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/Templates/5.jpg"
       },
       {	
           "id" : "6",
-          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/Template/6.png"
+          "url" : "https://raw.githubusercontent.com/sat-test/json_image_collection/main/Templates/6.jpg"
       }
     ]
 }  
